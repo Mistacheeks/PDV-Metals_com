@@ -2054,7 +2054,7 @@ pre code {
 .table-active,
 .table-active > th,
 .table-active > td {
-  background-color: rgba(0, 0, 0, 0.075);
+  background-color: rgba(0, 0, 0, 0.050);
 }
 
 .table-hover .table-active:hover {
@@ -2512,7 +2512,7 @@ textarea.form-control {
   font-size: 0.875rem;
   line-height: 1.5;
   color: #fff;
-  background-color: rgba(235, 77, 75, 0.9);
+  background-color: rgba(235, 77, 75, 0.6);
   border-radius: 0.25rem;
 }
 
@@ -2869,7 +2869,7 @@ fieldset:disabled a.btn {
 
 .btn-success:not(:disabled):not(.disabled):active:focus, .btn-success:not(:disabled):not(.disabled).active:focus,
 .show > .btn-success.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(128, 188, 103, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(128, 188, 103, 0.4);
 }
 
 .btn-info {
