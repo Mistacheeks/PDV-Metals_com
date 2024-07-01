@@ -168,8 +168,8 @@ a {
 }
 
 a:hover {
-  color: #f53900;
-  text-decoration: none;
+  color: #fff;
+  text-decoration: capitalize;
 }
 
 a:not([href]):not([tabindex]) {
