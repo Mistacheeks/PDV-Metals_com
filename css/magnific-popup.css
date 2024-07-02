@@ -7,7 +7,7 @@
   z-index: 1042;
   overflow: hidden;
   position: fixed;
-  background: #0b0b0b;
+  background: #29166f;
   opacity: 0.8; }
 
 .mfp-wrap {
@@ -311,9 +311,9 @@ img.mfp-img {
     bottom: 0; }
   .mfp-img-mobile .mfp-figure small {
     display: inline;
-    margin-left: 5px; }
+    margin-left: 3px; }
   .mfp-img-mobile .mfp-bottom-bar {
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.4);
     bottom: 0;
     margin: 0;
     top: auto;

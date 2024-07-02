@@ -501,7 +501,7 @@ Preloader Area CSS
 	top:0;
 	height:100%;
 	width:100%;
-	background:#1a76d1;
+	background:#29166f;
 	opacity:0.8;
 }
 /* Bread Crumbs */
@@ -520,26 +520,26 @@ Preloader Area CSS
 .breadcrumbs h2{
 	color: #fff;
 	text-transform:capitalize;
-	font-size: 38px;
+	font-size: 50px;
 	font-weight: 700;
 	margin: 0;
 	padding: 0;
 }
 .breadcrumbs .bread-list {
 	display: inline-block;
-	margin-top: 20px;
+	margin-top: 35px;
 }
 .breadcrumbs ul li{
 	display: inline-block;
 	position: relative;
 	color: #fff;
-	font-size: 15px;
+	font-size: 25px;
 	font-weight: 500;
 	text-transform: capitalize;
 }
 .breadcrumbs ul li i {
 	margin: 0px 10px;
-	font-size: 14px;
+	font-size: 25px;
 	font-weight: 600;
 	color:#fff;
 }
@@ -669,7 +669,7 @@ input[type="button"],
 input[type="reset"],
 input[type="submit"] {
 	border: 1px solid;
-	border-color: #ccc #ccc #bbb;
+	border-color: #858889 #858889 #bbb;
 	border-radius: 3px;
 	background: #e6e6e6;
 	color: rgba(0, 0, 0, 0.8);
@@ -767,7 +767,7 @@ a:hover, a:active {
 }
 
 .main-navigation ul ul {
-	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 5px 5px rgba(0, 0, 0, 0.4);
 	float: left;
 	position: absolute;
 	top: 100%;
